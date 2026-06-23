@@ -4,13 +4,13 @@ const frasi = [
 "Un passo alla volta, ok?",
 "Meriti pace e calma oggi",
 "Non sei sola, promesso",
-"Chiudi gli occhi 3 secondi... ora va meglio?"
-"Chiamami se stai male"
-"Ti voglio bene"
-"Sei molto forte"
-"È solo una giornata no, tutto passa"
-"focalizzati sulle cose belle e su chi ti vuole bene"
-"Io sono sempre qui per te"
+"Chiudi gli occhi 3 secondi... ora va meglio?",
+"Chiamami se stai male",
+"Ti voglio bene",
+"Sei molto forte",
+"È solo una giornata no, tutto passa",
+"focalizzati sulle cose belle e su chi ti vuole bene",
+"Io sono sempre qui per te",
 "Fiorirai"
 ];
 
