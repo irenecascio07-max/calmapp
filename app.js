@@ -1,4 +1,4 @@
-[
+const frasi = [
 "Ci sono io per te ❤️",
 "Respira... sei al sicuro",
 "Un passo alla volta, ok?",
