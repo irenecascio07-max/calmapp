@@ -1,0 +1,26 @@
+body {
+margin: 0;
+font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+background: #F5F3FF;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
+.container {
+text-align: center;
+padding: 30px;
+}
+h1 {
+color: #6C63FF;
+font-size: 32px;
+}
+button {
+margin-top: 20px;
+padding: 18px 40px;
+font-size: 20px;
+border: none;
+border-radius: 15px;
+background: #6C63FF;
+color: white;
+}

@@ -1,0 +1,13 @@
+{
+"name": "Calma",
+"short_name": "Calma",
+"start_url": ".",
+"display": "standalone",
+"background_color": "#F5F3FF",
+"theme_color": "#6C63FF",
+"icons": [{
+"src": "icon-192.png",
+"sizes": "192x192",
+"type": "image/png"
+}]
+}
